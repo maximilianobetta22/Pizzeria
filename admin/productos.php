@@ -295,7 +295,7 @@ function escapar($valor)
     <?php endif; ?>
 
 
-    <!-- FORMULARIO PARA AGREGAR PRODUCTOS -->
+    <!-- FORMULARIO PARA AGREGAR PRODUCTOS xd -->
 
     <h2>Agregar producto</h2>
 
